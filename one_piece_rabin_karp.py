@@ -2,7 +2,7 @@
 """
 Created on Mon Jul 27 16:21:37 2020
 
-@author: The Wonder Land
+@author: SecretProgrammer10
 """
 
 d = 256
