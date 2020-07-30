@@ -2,7 +2,7 @@
 """
 Created on Tue Jul 28 02:33:36 2020
 
-@author: The Wonder Land
+@author: SecretProgrammer10
 """
 
 def patternSearch(pat, text, val):
